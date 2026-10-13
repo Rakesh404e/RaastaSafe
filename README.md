@@ -2,7 +2,7 @@
 ### Metro-Area Pedestrian Audit and Last-Mile Feeder Mobility Planner
 **Pilot Station:** Rohini West (Red Line, Delhi Metro) & Context Node: Rohini Sector-18
 
-[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://rakeshsiwal.github.io/RaastaSafe/)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://rakesh404e.github.io/RaastaSafe/)
 [![IRC:103-2022](https://img.shields.io/badge/Standard-IRC%3A103--2022-blue?style=for-the-badge)](https://irc.nic.in)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI%200.141-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%2B%20TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
@@ -24,7 +24,7 @@ In developing megacities like Delhi, **public transit journeys do not end at the
 
 ## 🌐 Live Demo & Dual-Portal Architecture
 
-🔗 **Interactive Live Demo:** [https://rakeshsiwal.github.io/RaastaSafe/](https://rakeshsiwal.github.io/RaastaSafe/)
+🔗 **Interactive Live Demo:** [https://rakesh404e.github.io/RaastaSafe/](https://rakesh404e.github.io/RaastaSafe/)
 
 RaastaSafe features a 1-click persistent segmented switcher between two dedicated environments:
 
@@ -127,7 +127,7 @@ RaastaSafe strictly avoids opaque "AI accident risk" black boxes, maintaining an
 ### 2. Backend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/rakeshsiwal/RaastaSafe.git
+git clone https://github.com/Rakesh404e/RaastaSafe.git
 cd RaastaSafe
 
 # Install Python dependencies
